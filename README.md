@@ -1,5 +1,5 @@
 
-511 CCTV Camera Vehicle Detection Using DAIU Net and STMAP For Advanced Traveler Information System
+511 CCTV Camera Vehicle Detection Using DAIU Net and STMAP For Advanced Traveler Information System (ATIS)
 -----
 Scanline MethodS for [NJ511](https://511nj.org/camera) Traffic Camera Network
 
