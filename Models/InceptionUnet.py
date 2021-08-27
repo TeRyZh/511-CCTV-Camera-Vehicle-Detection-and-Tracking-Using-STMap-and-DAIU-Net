@@ -63,7 +63,8 @@ class InceptionResNetA(nn.Module):
 
         self.branch3x3 = nn.Sequential(
             BasicConv2d(input_channels, 32, kernel_size=1),
-            BasicConv2d(32, 64, kernel_size=3, padding=1)
+            BasicConv2d(32, 48, kernel_size=3, padding=1),
+            BasicConv2d(48, 64, kernel_size=3, padding=1)
         )
 
         self.branch1x1 = BasicConv2d(input_channels, 64, kernel_size=1)
