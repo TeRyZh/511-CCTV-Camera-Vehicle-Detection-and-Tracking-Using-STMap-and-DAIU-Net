@@ -16,13 +16,21 @@ This project developed a Spatial-temporal Map (STMap) based vehicle detection me
 
 Vehicle Detection Results
 --------
-### [US1 at Menlo Park Dr Light Rain](https://www.youtube.com/watch?v=xzrfBH-zZOA&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=1)
+### Light Rain Condition  [US1 at Menlo Park Dr](https://www.youtube.com/watch?v=xzrfBH-zZOA&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=1)
 
-### [US1 at Ryders Lane Snow](https://www.youtube.com/watch?v=wCv2EuXUoRA&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=2)
+### Snow Condition [US1 at Ryders Lane](https://www.youtube.com/watch?v=wCv2EuXUoRA&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=2)
 
-### [US1 MenloPark Dr Heavy Rain](https://www.youtube.com/watch?v=y6us4C5BQOs&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=3)
+### Heavy Rain Condition [US1 MenloPark Dr](https://www.youtube.com/watch?v=y6us4C5BQOs&list=PLC4d9Yu1vCsl02xe5gP3HNMD38QLYpFCX&index=3)
 
-### [US1 Alexander Rd](https://www.youtube.com/watch?v=sWeNFbOVwF4)
+### Low Light and Strong Glare Condition [US1 Alexander Rd](https://www.youtube.com/watch?v=sWeNFbOVwF4)
+
+### Large Freight Vehicle Occlusions [US1 Harrison Rd](https://www.youtube.com/watch?v=OfDF0L3Nn6Q)
+
+Comparison to AI City Challenge Winner Model
+-------------
+### Infrastructure Pole Blocking [US 1 Harrison Rd](https://www.youtube.com/watch?v=3QtQo9RZQ_w&t=29s)
+### Adversarial Illumination [US1 Alexander Rd ](https://www.youtube.com/watch?v=xYZ9QnkCqnI)
+
 
 License
 -------
