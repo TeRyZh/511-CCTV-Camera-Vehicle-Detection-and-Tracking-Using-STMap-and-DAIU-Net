@@ -26,9 +26,9 @@ Vehicle Detection Results
 
 #### [Large Freight Vehicle Occlusions US1 Harrison Rd](https://www.youtube.com/watch?v=OfDF0L3Nn6Q)
 
-Comparison to AI City Challenge Winning Model
+Compared to AI City Challenge Winning Solution
 -------------
-#### [Infrastructure Pole Blocking](https://www.youtube.com/watch?v=3QtQo9RZQ_w&t=29s)
+#### [Infrastructure Noise](https://www.youtube.com/watch?v=3QtQo9RZQ_w&t=29s)
 #### [Adversarial Illumination](https://www.youtube.com/watch?v=xYZ9QnkCqnI)
 
 
