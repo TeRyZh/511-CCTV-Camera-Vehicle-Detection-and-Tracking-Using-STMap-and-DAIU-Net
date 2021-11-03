@@ -7,8 +7,8 @@ Scanline Method for [NJ511](https://511nj.org/camera) Traffic Camera Network
 
 Highlights
 ----------
-* Proposed Dual Attention Inception Neural Network for traffic detection that has better performance than State-of-the-art image segmentation Models
-* An Efficient STMap-based Vehicle Detection Model Under Various Illuminations, Infrastructure Noises, Weather Conditions
+* Proposed Dual Attention Inception Neural Network for traffic detection that has fastest converge speed and equavalent performance to high-impact image segmentation Models
+* An Efficient STMap-based Vehicle Detection Model Under Various Illuminations, Infrastructure Noises, Weather Conditions better than the SOTA traffic video understanding methods
 
 Abstract
 --------
