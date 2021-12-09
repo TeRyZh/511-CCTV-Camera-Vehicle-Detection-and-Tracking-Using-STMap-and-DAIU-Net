@@ -29,7 +29,7 @@ Vehicle Detection Results
 Compared to AI City Challenge Winning Solution
 -------------
 #### [Infrastructure Noise](https://www.youtube.com/watch?v=3QtQo9RZQ_w&t=29s)
-#### [Adversarial Illumination](https://www.youtube.com/watch?v=xYZ9QnkCqnI)
+#### [Adversarial Lighting Condition](https://www.youtube.com/watch?v=xYZ9QnkCqnI)
 
 
 License
