@@ -1,6 +1,9 @@
 
 511 CCTV Camera Vehicle Detection Using DAIU Net and STMAP For Advanced Traveler Information System (ATIS)
 -----
+  
+Zhang T, Jin PJ, Ge Y, Moghe R, Jiang X. Vehicle Detection and Tracking for 511 Traffic Cameras With U-Shaped Dual Attention Inception Neural Networks and Spatial-Temporal Map. Transportation Research Record. 2022;2676(5):613-629. doi:10.1177/03611981211068365
+  
 Scanline Method for [NJ511](https://511nj.org/camera) Traffic Camera Network
 
 <p align="center"><img src="https://github.com/TeRyZh/Detection-is-Tracking-511-CCTV-Camera-Vehicle-Detection-Using-STMap-and-DAIU-Net/blob/main/Figures/selected_testing_sites.png" /></p>
